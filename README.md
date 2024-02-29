@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Eepy girl, electronics nerd and car enthusiast :P
-
 <!--
 **eepykami/eepykami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
